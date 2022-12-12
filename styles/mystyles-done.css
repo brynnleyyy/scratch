@@ -1,0 +1,130 @@
+body img {
+    height: 700px;
+    width: 800px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+}
+
+body{
+    background-color: pink;
+}
+
+h1 {
+    font-family:'Lobster', cursive;
+    font-size: 8rem;
+    color: antiquewhite;
+    text-align:center
+}
+
+h2 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 3rem;
+    color: crimson;
+    text-align: center;
+}
+
+h3 {
+    font-family: fantasy;
+    font-size: 2rem;
+    color:crimson;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    Width: 600px;
+}
+
+h4 {
+    font-family: fantasy;
+    font-size: 2rem;
+    color:crimson;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 500px;
+}
+
+h5 {
+    font-family: fantasy;
+    font-size: 3rem;
+    text-align: center;
+    color: antiquewhite;
+    position: relative;
+}
+
+h6 {
+    font-family: fantasy;
+    font-size: 3rem;
+    text-align: center;
+    color: antiquewhite;
+}
+
+ul {
+    font-size: 2rem;
+    color: antiquewhite;
+    text-align: center;
+}
+
+ol {
+    font-size: 2rem;
+    color:antiquewhite;
+    text-align: center;
+}
+
+.relative {
+    position: relative;
+    display: list-item;
+    list-style-position: inside;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    font-family: 'Boogaloo', cursive;;
+}
+
+.column {
+    position: relative;
+    list-style-position: inside;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    font-family: 'Boogaloo', cursive;
+}
+
+nav {
+    font-size: 2rem;
+    text-align: center;
+    font-family: 'Great Vibes', cursive;
+}
+
+.text {
+    font-family: 'Boogaloo', cursive;
+    font-size: 2rem;
+    color: crimson;
+    position: relative;
+    width: 700px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+iframe {
+    height: 600px;
+    width: 1000px;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    position: relative;
+}
+
+div {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+
+
